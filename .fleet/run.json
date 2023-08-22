@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "command",
+            "name": "Command configuration",
+            "program": "microsoft-edge",
+            "args": ["./index.html"],
+        },
+        
+    ]
+}
